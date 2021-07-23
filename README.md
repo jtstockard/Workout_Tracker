@@ -8,7 +8,8 @@ A Node.js and noSQL application that uses MongoDB as storage space for a web app
 
 Here are the screenshots of the following web app:
 
-![heroku app](./images/)
+![heroku app](/public/homepage.jpg)
+![heroku dash](/public/dashboard.jpg)
 
 ## Table of Contents
 
